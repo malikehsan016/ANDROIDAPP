@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/malik/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/menu/map_menu.xml",
+        "source": "/Users/malik/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/menu/map_menu.xml"
+    },
+    {
+        "merged": "/Users/malik/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/menu/user_menu.xml",
+        "source": "/Users/malik/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/menu/user_menu.xml"
+    }
+]
